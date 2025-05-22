@@ -1,0 +1,12 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+transformers==4.39.0
+numpy
+hdbscan
+bertopic
+FlagEmbedding
+pandas
+umap-learn
+peft
+torch
+
